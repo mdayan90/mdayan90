@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA IN JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...THORUGH EMAIL(hashmiayan90@gmail.com)
-- 😄 Pronouns: ...
+- 😄 Pronouns: HASHMI
 - ⚡ Fun fact: I BECOME MORE ENERGETIC WHEN I DO CODING.
 
 <!---
